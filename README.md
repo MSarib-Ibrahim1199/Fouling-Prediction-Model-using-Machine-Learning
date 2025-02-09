@@ -1,4 +1,4 @@
-#Fouling Prediction Using Machine Learning
+Fouling Prediction Using Machine Learning
 
 1. Introduction
 
