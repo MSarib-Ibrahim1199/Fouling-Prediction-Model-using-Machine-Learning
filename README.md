@@ -68,17 +68,17 @@ I generated graphs and charts to compare model predictions against actual values
 
 pip install numpy pandas scikit-learn tensorflow matplotlib
 
-###7.2 Execute the Pipeline
+### 7.2 Execute the Pipeline
 
 python main.py
 
 The script will preprocess the data, train models, evaluate their performance, and save results in the /results/ directory.
 
-##Conclusion
+## Conclusion
 
 This machine learning-based approach provides an efficient way to predict fouling in heat exchangers, demonstrating the effectiveness of hybrid models in regression tasks. Future improvements may include hyperparameter tuning, feature selection techniques, and testing on real industrial datasets to further validate the model.
 
-##References
+## References
 
 Machine Learning for Predictive Maintenance.
 
